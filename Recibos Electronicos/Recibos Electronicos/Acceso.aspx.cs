@@ -17,6 +17,8 @@ namespace Recibos_Electronicos
 {
     public partial class Acceso : System.Web.UI.Page
     {
+        //pruebas
+
         #region <Variables>
         string Verificador = string.Empty;
         string NombreUsu = string.Empty;
